@@ -4,27 +4,30 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|chinchilla|
+|Blog|[-]()|
+|GitHub|https://github.com/chinchillaa|
 
 ## スキル
-### 言語
-- Ruby
-- PHP
-- Java
+### 言語やツール
+- Python
+- SQL
+- Excel, PowerPoint
+- Git
+- Docker
 - などなど
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
+- Numpy, Pandas
+- Matplotlib
+- Scikit-learn
+- Pytorch
 - などなど
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+Text Embeddingを使った文書仕分けや、OSS LLMを使ったLLM構築の経験を通して、自然言語処理分野を特に得意分野としています。
 
 ## 言語
 
@@ -32,45 +35,47 @@
   - ネイティブ
 - 英語
   - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - TOEIC: 595点
 
 ## 強み
 
-## やったことはないが興味があるもの
+データの前処理や生成など泥臭いけど重要な作業に特に力を発揮するコツコツタイプです。
+
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2023/01 - 現在 : アクセンチュア株式会社
 
-職務: Webアプリケーションエンジニア（例）
+職務: データサイエンティスト
 
-#### 職務内容の名前（レストラン検索とか）
+#### OSS LLM構築
 
-- 職務内容の詳細を箇条書きでかく
+- 学習データの傾向分析
+- 学習データの前処理
+- LLMを使った追加学習データの生成
+- LLMへのSFT(Supervised Fine-tuning)
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### PMI PMO
 
-職務: サーバーサイドエンジニア
+株式会社ALBERTとの統合周りのプロジェクト管理
 
-#### 職務内容の名前（レストラン検索とか）
+- バックオフィス担当者の面談調整・ロジ周り
+- 出向者の契約管理
+- 統合後のWBSの管理・チャージ率推移の集計
 
-- 職務内容の詳細を箇条書きでかく
+### 2019/04 - 2022/12: 本田技研工業株式会社
+
+職務: 二輪購買
+
+#### 原価低減案の分析
+
+- 原価低減案の効果額分析
+- 原価低減案の類似分類
 
 ## 課外活動
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+### Kaggle
 
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+- [Profile](https://www.kaggle.com/tgwstr)
+- Kaggle Competition Expert
+- Kaggle Discussion Expert
